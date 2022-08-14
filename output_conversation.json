@@ -1,0 +1,236 @@
+[
+    {
+        "speaker_label": "spk_0",
+        "language": "de-DE",
+        "sentences": [
+            {
+                "text": "Das ist der s\u00e4chsische Landtag in Dresden, das ist Doktor Matthias R\u00f6\u00dfler, er ist der Pr\u00e4sident des s\u00e4chsischen Landtages.",
+                "start_time": "0.77",
+                "end_time": "9.77",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Wozu braucht Sachsen einen Landtag?",
+                "start_time": "10.37",
+                "end_time": "12.16",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Wir ",
+                "start_time": "12.17",
+                "end_time": "12.61",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            }
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "language": "de-DE",
+        "sentences": [
+            {
+                "text": "leben in einer Demokratie aller f\u00dfcnf Jahre w\u00e4hlen die Sachsen ein Parlament aus Abgeordneten, das vertritt die Interessen des Frei Staates, ihre Interessen.",
+                "start_time": "12.88",
+                "end_time": "24.58",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Wir werden Gesetze beschlossen, die Abgeordneten befinden \u00fcber die Finanzen, das Parlament kontrolliert die Regierung und w\u00e4hlt den Ministerpr\u00e4sidenten,",
+                "start_time": "25.04",
+                "end_time": "34.35",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            }
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "language": "de-DE",
+        "sentences": [
+            {
+                "text": "die Interessen der s\u00e4chsischen B\u00fcrger werden durch die gew\u00e4hlten Abgeordneten vertreten.",
+                "start_time": "38.16",
+                "end_time": "42.75",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Dem s\u00e4chsischen Landtag geh\u00f6ren aktuell 119 Abgeordnete an, seit 1990 hat der s\u00e4chsische Landtag mehr als 800 Gesetze beschlossen.",
+                "start_time": "43.88",
+                "end_time": "57.27",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Bevor Gesetze zur Abstimmung kommen, diskutieren die Volksvertreter sie in Aussch\u00fcssen.",
+                "start_time": "57.81",
+                "end_time": "62.58",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Dort k\u00f6nnen auch Experten zu Wort kommen.",
+                "start_time": "63.16",
+                "end_time": "65.17",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Auch jeder B\u00fcrger in Sachsen hat die M\u00f6glichkeit, sich einzubringen.",
+                "start_time": "67.02",
+                "end_time": "70.28",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Der einfachste Weg ist das direkte Gespr\u00e4ch mit einem Abgeordneten bei der B\u00fcrgersprechstunde Hier kann jeder sein Anliegen vortragen.",
+                "start_time": "70.73",
+                "end_time": "78.85",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Eine andere M\u00f6glichkeit ist, seine Bitte oder Beschwerde als Petition einzureichen.",
+                "start_time": "80.69",
+                "end_time": "85.33",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Jede eingereichte Petition muss im zust\u00e4ndigen Ausschuss des Landtages bearbeitet werden.",
+                "start_time": "85.92",
+                "end_time": "91.05",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Pro Jahr gehen im Schnitt \u00fcber 600 Petitionen im Landtag ein.",
+                "start_time": "91.88",
+                "end_time": "96.05",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Wie kann man als B\u00fcrger den Landtag noch besser kennen lernen?",
+                "start_time": "98.16",
+                "end_time": "101.44",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Zum Beispiel bei einem Besuch in B\u00fcrger vor.",
+                "start_time": "101.93",
+                "end_time": "103.95",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Je dort wird in einer interaktiven Ausstellung mit Grafiken und Videos erkl\u00e4rt, wie Landespolitik im Freistaat funktioniert.",
+                "start_time": "104.28",
+                "end_time": "112.03",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Au\u00dferdem sind originelle Gastgeschenke aus aller Welt zu sehen.",
+                "start_time": "113.07",
+                "end_time": "117.27",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            }
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "language": "de-DE",
+        "sentences": [
+            {
+                "text": "Der s\u00e4chsische Landtag ist f\u00fcr sie da.",
+                "start_time": "117.54",
+                "end_time": "119.57",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Jedes Jahr besuchen uns 24.000 Menschen.",
+                "start_time": "119.58",
+                "end_time": "123.56",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            },
+            {
+                "text": "Zuf\u00fchrung zu Plenarsitzung zur Abgeordneten Gespr\u00e4chen Informieren Sie sich bitte auf YouTube, Instagram oder auf unseren Webseiten oder k\u00f6nnen Sie ganz einfach vorbei?",
+                "start_time": "123.56",
+                "end_time": "135.65",
+                "classItem": "",
+                "resultId": "",
+                "result_ner_filter": "",
+                "result_qa": "",
+                "paragraph": ""
+            }
+        ]
+    }
+]
